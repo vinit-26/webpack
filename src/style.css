@@ -6,7 +6,7 @@ h1 {
     color: #fff;
     font-size: 5em;
     font-family: sans-serif;
-    text-shadow: 0 0 20px #032902;
+    text-shadow: 0 0 20px #c6eb72;
 }
 .profile {
     display: flex;
@@ -19,5 +19,5 @@ img {
     border-radius: 100%;
     width: 300px;
     height: 300px;
-    box-shadow: 0 0 20px #d6d6d6;
+    box-shadow: 0 0 20px #7e6d6d;
 }
